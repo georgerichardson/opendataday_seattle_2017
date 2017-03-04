@@ -31,6 +31,7 @@ That's right with enough tweaking it is possible to make pretty graphs in Excel.
 - [Heat Maps in Excel](http://www.excel-university.com/heat-maps-in-excel/)
 
 ### Some Coding
+#### R
 
 The language R comes with an array of brilliant visualization and plotting libraries. All of this can be done through the self-contained RStudio environment.
 
@@ -64,10 +65,12 @@ df.head() # show headers and first rows of dataframe
 - [Datashader](http://datashader.readthedocs.io/en/latest/)
 - [Plotting Billions of Points with Datashader](http://qingkaikong.blogspot.com/2016/09/using-datashader-to-visualize-billions.html)
 
-#### Code it From Scratch
+### Code it From Scratch
+#### D3.js
+
 Sometimes out-of-the-box packages just wont cut it. D3 is a powerful web visualization package based on JavaScript. It can do [just about anything you want](https://github.com/d3/d3/wiki/Gallery).
 
-- [Intro to D3.JS](https://square.github.io/intro-to-d3/)
+- [Intro to D3.js](https://square.github.io/intro-to-d3/)
 - [Interactive Visualizations for the Web (Book)](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 - [bl.ocks D3 viewer](https://bl.ocks.org/-/about)
 
@@ -77,5 +80,8 @@ Sometimes out-of-the-box packages just wont cut it. D3 is a powerful web visuali
 
 
 ## Inspiration
+
+- [Gapminder World](http://www.gapminder.org/world/)
+- [Data and Design (Book)](https://infoactive.co/data-design/preface01.html)
 
 ## Tips
