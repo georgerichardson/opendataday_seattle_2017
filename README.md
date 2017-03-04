@@ -1,5 +1,5 @@
 # Open Data Day Seattle 2017
-A data visualization bonanza. In one afternoon.
+A citizen powered open data visualization bonanza. In one afternoon.
 
 ## Data
 
@@ -79,5 +79,3 @@ Sometimes out-of-the-box packages just wont cut it. D3 is a powerful web visuali
 ## Inspiration
 
 ## Tips
-
-https://square.github.io/intro-to-d3/
