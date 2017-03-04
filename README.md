@@ -5,7 +5,7 @@ A citizen powered open data visualization bonanza. In one afternoon.
 
 It's everywhere, but today we're interested in the open stuff. Here's a few places to find some.
 
-- [Some datasets downloaded for this event](https://www.dropbox.com/sh/77i1b9cxw6ypg8z/AADLaGZhWBzUGjIaqJuseMita?dl=0)
+- [Some Seattle Open Data Day Datasets](https://www.dropbox.com/sh/77i1b9cxw6ypg8z/AADLaGZhWBzUGjIaqJuseMita?dl=0)
 - [City of Seattle's Open Data Portal](https://data.seattle.gov)
 - [US Government's Open Data (get it while you can!)](https://www.data.gov/)
 - [World Bank Open Data](http://data.worldbank.org/)
@@ -81,7 +81,14 @@ Sometimes out-of-the-box packages just wont cut it. D3 is a powerful web visuali
 
 ## Inspiration
 
+### Representing Data
+
 - [Gapminder World](http://www.gapminder.org/world/)
 - [Data and Design (Book)](https://infoactive.co/data-design/preface01.html)
+- [Information is Beautiful](http://www.informationisbeautiful.net/)
+
+### Data Blogs from Seattle
+- [Amber Thomas](https://proquestionasker.github.io/)
+- [Jake VanderPlas](https://jakevdp.github.io/blog/2014/06/10/is-seattle-really-seeing-an-uptick-in-cycling/)
 
 ## Tips
