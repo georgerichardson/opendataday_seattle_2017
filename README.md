@@ -1,2 +1,2 @@
-# opendataday_seattle_2017
-Everything about Seattle's Open Data Day 2017 Visualisation Hangout
+# Open Data Day Seattle 2017
+A data visualization bonanza. In one afternoon.
